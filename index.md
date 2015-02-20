@@ -41,7 +41,7 @@ The application can be found at https://hereandnow.shinyapps.io/Project/
 
 This is a snapshot of the application running on shinyapp
 
-<iframe src ="Capture.png"></iframe>
+<iframe src ="Capture.PNG"></iframe>
 
 --- .class #id
 
